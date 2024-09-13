@@ -1,0 +1,104 @@
+1. Emissions trends and drivers
+In 2021 greenhouse gas (GHG) emissions from electricity generation represented
+11% of total UK GHG emissions. The vast majority of these emissions were from gas-
+fired power stations (Figure 6.1).
+Emissions increased by 10% in 2021 compared to 2020, to 48.3 MtCO2e (Figure 6.1).
+~
+	• This means emissions are tracking substantially (15 MtCO 2e, 44%) above the
+Government’s Net Zero Strategy pathway for 2021 (Figure 6.2).
+~
+	• Emissions remain 8% below pre-pandemic (2019) levels, 69% below 2010
+levels, and 76% below 1990 levels, reflecting the almost complete removal
+of coal generation from the electricity system during the 2010s.
+~
+The increase in 2021 emissions reflects both rising demand in response to the easing
+of restrictions due to the COVID-19 pandemic, and an increase in the carbon-
+intensity of generation:
+~
+	• Electricity demand. Demand rose by 2% to 285 TWh in 2021, but was still 4%
+lower than pre-pandemic levels. This rebound was primarily driven by higher
+industrial demand (Figure 6.3).
+		– Industrial electricity demand increased by 4%, while commercial and
+residential demand both increased by 1% relative to 2020 levels.
+		– Overall electricity demand remained below pre-pandemic levels,
+reflecting the continuation of restrictions during 2021. Residential
+demand was 5% higher and commercial and industrial demand 10%
+and 6% lower than in 2019, respectively, reflecting the higher
+prevalence of working from home during the pandemic.
+		– In the third and fourth quarters of 2021, residential electricity demand
+was 4% and 7% respectively lower than in the equivalent periods in
+2020. This may be a consequence of increased electricity prices
+resulting from higher gas prices, combined with milder weather and
+some relaxation of lockdown restrictions during parts of that period.
+~
+	• Emissions intensity. Emissions intensity rose by 12% in 2021 to 200 gCO2 /kWh.
+Low-carbon generation was 9% lower than in 2020 due to low windspeeds
+and outages at nuclear plants. Consequently, gas generation and imports
+rose to compensate for this, increasing emissions.
+		– Low-carbon generation reduced by 9% in 2021.
+		~
+	• The lowest average windspeeds in a decade led to a 14%
+reduction in wind generation in 2021, despite a 5% increase in
+capacity. Consequently, the average offshore wind load factor fell
+to 37% compared to 46% in 2020, and the average onshore wind
+load factor fell to 23% compared to 28% in 2020. There is no clear
+evidence this is part of a longer-term trend (Figure 6.4), but we will
+continue to monitor this as part of our annual progress tracking.
+~
+Electricity supply represents 11%
+of UK emissions. Sector
+emissions increased by 10% in
+2021, but have fallen by over
+75% since 1990.
+~
+Electricity demand rose 2% in
+2021 compared to 2020, largely
+driven by rebounding industrial
+demand following COVID-19
+restrictions.
+~
+Emissions intensity rose by 12%
+in 2021 compared to 2020.
+Low-carbon generation fell by
+9% in 2021 compared to 2020,
+largely driven by low wind
+speeds and nuclear outages.
+~
+• There was also less sunshine in 2021 compared to 2020, causing a
+6% reduction in solar generation. The average solar load factor fell
+to 10% compared to 11% in 2020.
+~
+• Nuclear generation reduced by 9% in 2021, primarily due to plant
+outages. This is part of a continued decline in nuclear generation
+due to ageing of the UK reactor fleet.
+– Fossil fuel generation and imports. To compensate for lower renewable
+and nuclear generation, fossil fuel generation increased by 12% and
+imports by 37%.
+• Gas-fired generation rose by 12% in 2021. Coal generation also
+increased, by 15%, but remains only 2% of total supply.
+~
+• Imports increased by 37%, although they still represent less than
+10% of electricity supplied. New interconnectors were opened,
+including with Norway, increasing capacity from 5.0 GW to 7.4 GW.
+Overall, over half of electricity generation in 2021 came from low-carbon sources,
+with the bulk of the remaining generation met by gas (Figure 6.5).
+~
+Gas generation and imports
+both rose in 2021 compared to
+2020.
+~
+In 2021 emissions from
+electricity supply were 11% of
+total UK GHG emissions, and
+were around 75% below 1990
+levels as coal has been phased
+out.
+~
+The increase in emissions in
+2021 means there is a large
+gap to the Government’s Net
+Zero Strategy pathway.
+Electricity consumption
+increased relative to 2020,
+largely due to increased
+industrial demand.

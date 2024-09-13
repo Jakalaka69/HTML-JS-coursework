@@ -1,0 +1,170 @@
+Policy progress, assessment and next steps
+Since our 2021 Progress Report, the Government has released a consultation on
+the Jet Zero Strategy, with some new policy proposals. It is yet to publish the full Jet
+Zero Strategy, which is due in July 2022. There have been some new commitments,
+funding and ambition, but many policies are still lacking in detail. A major step has
+been the commitment to an emissions pathway for UK international aviation by
+2050.
+This section is in three parts:
+	(a) Policy progress
+	(b) Assessment of policies and plans
+	(c) Recommendations
+	(a) Policy progress
+In the absence of the full Jet Zero Strategy and with minimal detail on emissions
+reductions in the Government’s May 2022 Flightpath to the Future policy paper,9
+we do not have a full policy package to assess for aviation. The following areas
+have seen new policy proposals:
+	• International Civil Aviation Organisation (ICAO) and international action.
+The UK has taken some action to lead on aviation internationally, including
+pushing to secure a long-term goal for international aviation emissions
+consistent with the Paris Agreement and a strengthened CORSIA (Carbon
+Offsetting and Reduction Scheme for International Aviation) offsetting
+scheme. However, the Government has provided limited detail on future
+interactions and what it aims to achieve through international cooperation.
+Further detail must be provided as soon as possible in the upcoming Jet
+Zero Strategy.
+	• Offsetting/removals. BEIS and DfT have consulted on the interaction of the
+UK Emissions Trading Scheme (UK ETS) and CORSIA but are yet to commit to
+a policy on this. The Government should commit to preventing operators
+using CORSIA credits as a substitute for a UK Emissions Trading Allowance,
+due to the insufficient quality and additionality of existing offsets. Their
+quality prevents them being an acceptable contribution to UK carbon
+budgets and should only qualify as part of the UK ETS once they can satisfy
+strict eligibility criteria (equivalence, additionality, permanence,
+sustainability.)
+The Government is also consulting on other matters relating to aviation and
+the UK ETS:
+		– How sustainable aviation fuels (SAF) are treated under the UK ETS and
+how take-up can be incentivised.
+		– The feasibility and appropriateness of expending the UK ETS to include
+non-CO 2 effects from aviation (although any policy will only be
+implemented in the long-term).
+The Department for Transport is
+yet to publish its Jet Zero
+Strategy, and many policies
+continue to lack detail.
+Progress in reducing emissions: 2022 Report to Parliament 344
+		– Including UK-Switzerland flight paths under the UK ETS.
+		– How the free allocation of UK ETS allowances for airlines should
+operate.
+	• Operational efficiency. The UK Government has committed to work through
+the ICAO to ensure stringent international standards for aircraft emissions
+are implemented as technology improves. It is seeking voluntary
+agreement from all airlines to avoid tankering (i.e. carrying more fuel than is
+needed for the immediate flight) where there is no practical reason to carry
+extra fuel. It is asking for additional contributions on wider changes to
+policies that may improve efficiencies.
+	• Sustainable Aviation Fuels (SAF). The Department for Transport is consulting
+on a UK SAF mandate from 2025 to enable the delivery of 10% SAF by 2030
+and will be providing £180 million in funding to UK industry to support the
+development of SAF plants. It has further committed £3m to the
+development of a SAF clearing house.
+	• Zero-emission aircraft. The Government has set an aspiration to have zero-
+emission routes connecting the UK by 2030 and are looking at the feasibility
+of using zero-emission aircraft on UK Public Service Obligation routes. It has
+committed to £685 million of funding which, alongside industry funding, will
+provide £1 billion to support the development of zero-carbon and ultra-low-
+emission aircraft technology, alongside previous funding for ‘FlyZero’.10
+	• Demand management. The Government has proposed to strengthen
+carbon pricing in the aviation industry as a way of increasing the price of
+air travel and reducing demand. There is minimal detail in its strategy on
+how this would work. Also, the Civil Aviation Authority, in their May 2022
+sustainability strategy, have committed to consulting on carbon labelling
+for flight routes to encourage consumers to chose the lowest emission flights
+by the end of 2022.11
+	• Non-CO2 effects. The Government has published a Call for Evidence on
+whether the UK ETS could be expanded to cover non-CO 2 emissions,
+focusing initially on NOx.
+
+(b) Assessment of policies and plans
+Of the 13 recommendations in the 2021 Progress Report relating to the aviation
+sector, one has been achieved and one has been partly achieved, while of the
+ongoing recommendations, one is making sufficient progress, four are making
+some but insufficient progress and six are not making progress. Figure 9.14 shows
+the ambition of the Department for Transport’s scenarios relative to the CCC’s Sixth
+Carbon Budget Balanced Pathway, together with the previous modelled scenario
+produced by the Department for Transport and adjusted for the Net Zero Strategy.
+Unlike other sectors, we include the pathway to 2050 due to the importance of the
+later periods for aviation decarbonisation as technology required to abate
+emissions in this sector will take a significant period to be commercially deployed.
+For this analysis we use the baseline and pathway from the Jet Zero Strategy March
+2022 further technical consultation, as it has the Department for Transport’s most
+up-to-date assumptions. This assessment of progress in the aviation sector shows
+there are significant risks to achieving the Government’s pathway (Figure 9.15 and
+Table 9.2), particularly due to the heavy reliance on a technology-driven
+approach without sufficient attempts to constrain demand.
+
+Only two of 13
+recommendations in 2021 have
+been achieved or are making
+sufficient progress.
+
+The policy scorecard for aviation is based on our judgement of current
+Government commitments for the decarbonisation of the sector and may change
+once the full Jet Zero Strategy has been published.
+
+
+(c) Recommendations
+The recommendations in this sector are available in the accompanying tables in
+the Annex (grouped by department) and on our website. The latter are filterable
+by sector and by department.
+The key priorities in the aviation sector are:
+	• The Government must publish its Jet Zero Strategy as soon as possible. This
+should provide a clear strategy for the sector to decarbonise and to
+provide certainty to airlines, airports, and supporting industries.
+	• To implement a SAF mandate as soon as possible in 2022 with strong
+safeguards to ensure significant lifecycle emissions savings.
+	• To consider the following criteria in the SAF mandate, without allowing this
+to delay its implementation:
+		– Measure the lifecycle savings from SAF and only include those with
+minimal opportunity costs in other sectors in the mandate
+		– Rule out any SAF that have greater non-CO2 effects relative to those
+of fossil kerosene
+		– Consider including high-quality, near permanent greenhouse gas
+removals as a way of airlines meeting the SAF mandate
+		– Only include SAF or other technologies that support a swift transition to
+zero-carbon aviation
+		– Fiscal policy (e.g. taxation, quotas or a frequent flyer levy) should be
+used to increase the price of flying to reflect the high emissions cost of
+air travel and incentivise low-emission alternatives. For example, the
+50% Air Passenger Duty cut for domestic flights could be reversed to
+signal the high emissions cost of flying and incentivise low-emission
+forms of surface transport (e.g. rail travel)
+		– Assess the Government’s airport capacity strategy in the context of
+Net Zero. There should be no net expansion of UK airport capacity
+unless the carbon intensity of aviation can accommodate additional
+demand
+	• The Government should use its position at the 41st ICAO General Assembly
+to influence international cooperation and to protect, strengthen and
+extend CORSIA such that all residual emissions in 2050 are covered by near-
+permanent, sustainable greenhouse gas removals.
+		– We also recommend that the Government commits to a policy on the
+UK ETS/CORSIA interaction as soon as possible, ensuring that it is
+sufficiently environmentally stringent and that no credits from the
+Carbon Offsetting and Reduction Scheme for International Aviation
+(CORSIA) are used for flights currently covered by the UK ETS unless
+and until they can satisfy strict eligibility criteria (equivalence,
+additionality, permanence, sustainability). The interaction should avoid
+double-compliance.
+
+Key priorities for the
+Department for Transport
+should be to Implement a SAF
+mandate and manage
+demand growth.
+
+	• To encourage airlines to quickly take steps to reverse the recent rapid
+increase in fuel consumption intensity (see Figure 9.4) by eliminating the use
+of ‘ghost flights’ and taking steps to increase seat occupancy by altering
+routes and flight frequencies.
+	• To measure aviation non-CO2 effects regularly and include a target to limit
+the warming effects of both CO2 and non-CO 2 emissions from aviation.
+	• Encouraging airlines and airports to set transition plans and, within these, set
+separate targets for emissions reductions and high quality, technology-
+driven removals (see Business and Finance Section in Chapter 14).
+Demand management is particularly important as it can address both the CO2
+and non-CO2 emissions from aviation, whereas technology primarily addresses the
+CO2 emissions and relies on international cooperation.
+Figure 9.16 shows a policy implementation timeline for aviation, including key
+government commitments and gaps in the Government’s aviation strategy as it
+stands.

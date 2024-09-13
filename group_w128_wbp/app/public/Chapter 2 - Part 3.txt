@@ -1,0 +1,384 @@
+ Policy progress, assessment and next steps
+ ~
+This section sets out progress made on developing policy for reducing emissions
+from electricity supply in the past year, our assessment of that policy progress, and
+our recommendations to be taken forward over the coming year.
+~
+	• There has been a wide range of recent policy developments. As part of the
+Net Zero Strategy, the Government committed to fully decarbonising
+electricity generation by 2035. It subsequently increased its ambition further
+across a range of technologies in the ESS.
+~
+	• Credible plans are in place for over half the emissions reductions required in
+2035 but some risks remain, particularly around renewables deployment
+over the 2020s and nuclear.
+~
+	• Our recommendations reflect that the overriding challenge is now to
+ensure that the Government’s ambitions are delivered.
+	– A key gap in comparison to other sectors (e.g. heat and buildings,
+transport) is the absence of an overarching delivery plan or strategy.
+This should be developed as a priority.
+	– Other key enablers will also need to be tackled, including electricity
+market arrangements, onshore and offshore network capacity and
+potential supply chain bottlenecks.
+This section is in three parts:
+	(a) Policy progress
+	(b) Assessment of policies and plans
+	(c) Recommendations
+~
+(a) Policy progress
+The Energy Security Strategy
+In response to the invasion of Ukraine, the Government published its ESS. This was a
+welcome move which increased ambition across a range of areas with the aim of
+reducing dependence on imported fossil fuels, in particular through faster
+deployment of renewables.
+~
+Overall, the supply-side ambitions in the ESS were broadly appropriate, but actions
+on the demand-side were limited and could have gone further:
+~
+	• Supply-side ambition. The ESS significantly increased the Government’s
+aims for deployment of low-carbon technologies, including offshore wind,
+solar, nuclear, and hydrogen production. Alongside this there were new
+commitments to speed-up planning processes, scale-up network grid
+connections and review electricity markets. Overall, despite a lack of focus
+on the opportunities of onshore wind, this was an ambitious and stretching
+package of measures.
+~
+Delivering on the
+Government’s ambitions is now
+the overriding challenge for
+policy.
+~
+The Government has increased
+ambition across a range of
+areas in response to the
+invasion of Ukraine.
+~
+• Demand-side ambition. The ESS was almost entirely supply-focused and
+much of it will not be delivered until well after the immediate crisis has
+passed. There remains an urgent need for equivalent action to reduce
+demand for fossil fuels to reduce emissions and limit energy bills over the
+longer term. That could include moving the policy costs due to historical
+subsidies off electricity bills and onto general public spending, and a
+sustained push for both energy efficiency improvements and electrification,
+especially in the buildings sector.
+~
+Renewables
+As part of the ESS, the Government increased ambition for offshore wind and solar,
+and aims to improve the planning process for onshore wind. This is a welcome
+move that will help reduce dependence on fossil gas, whether for electricity
+generation or hydrogen production, while accelerating progress towards the
+Government’s objective to fully decarbonise electricity supply by 2035.
+~
+	• Offshore wind. The Government increased its ambition for 2030 from 40 GW
+to up to 50 GW, including up to 5 GW of floating offshore wind. That
+compares to 11 GW installed currently. It has also committed to reducing
+time taken for consenting new projects, from up to four years down to one
+year.
+~
+	• Solar. The Government set out an expectation for a five-fold increase on
+currently installed capacity by 2035, which would equate to a total of 70
+GW. It also committed to consult in 2022 on amending planning rules to
+strengthen policy in favour of development of ground-mounted solar on
+non-protected land, and to consult on radically simplifying planning
+processes for rooftop solar.
+~
+	• Onshore wind. While the ESS did not state an ambition for onshore wind
+capacity, the Government did commit to consulting this year on
+developing local partnerships for communities in return for benefits,
+including lower energy bills.
+~
+2022 also sees the next round of auctions for low-carbon electricity contracts
+(Contracts for Difference – CfDs), the results of which will be known in mid-2022.
+Funding has been confirmed, and onshore wind and solar are now eligible to bid in
+addition to offshore wind.
+~
+	• Offshore wind. £210 million per year has been made available for offshore
+wind, and a minimum of £24 million per year for floating offshore wind.
+These projects will be delivering from 2025, and there is no limit on the
+amount of capacity that can be procured within the budget.
+~
+	• Onshore wind and solar. These technologies are now eligible to bid for
+CfDs, and £10 million per year is available for Pot 1 technologies (which
+includes onshore wind and solar). There is a limit of 5 GW capacity that can
+be procured for Pot 1, with a maximum of 3.5 GW each for onshore wind
+and solar.
+~
+	• Auction timings. The results of the auction will be known in mid-2022. The
+Government has confirmed that auctions for CfDs will now be run annually,
+providing project developers with a more regular pathway for accessing
+these.
+~
+The ESS increased ambition on
+renewables.
+The results of the fourth round
+of auctions for low-carbon
+electricity contracts will be
+known in mid-2022.
+Auctions for low-carbon
+electricity contracts will now
+happen annually.
+~
+Nuclear
+In the ESS, the Government significantly increased its long-term ambition for
+nuclear. It also moved forward with a new funding model for new-build plants,
+including funding next-generation nuclear projects.
+~
+	• Long-term ambition. In the ESS the Government announced an ambition to
+deploy up to 24 GW of nuclear capacity by 2050, which could represent up
+to 25% of UK electricity generation. In addition to taking one project to a
+final investment decision (FID) this Parliament, the plan is now to take a
+further two projects to FID in the next Parliament.
+~
+	• Funding. The Government has announced a new funding model, and has
+created several new funds, to support new nuclear projects.
+		– The Government has agreed to introduce a Regulated Asset Base
+(RAB) model for funding new nuclear projects, and introduced
+legislation for this in October 2021. The RAB model involves a levy on
+consumer bills, which contributes to construction costs and transfers
+some of the construction risk to consumers. While this helps reduce the
+cost of capital for investors and therefore overall financing
+requirements, it also means consumers are exposed to risks of potential
+project delays and additional costs.
+~
+		– The Government has announced a new £385 million Advanced
+Nuclear Fund and a £120 million Future Nuclear Enabling Fund.
+Low-carbon flexibility
+The Government has announced a range of new policies aimed at bringing
+forward and facilitating new sources of low-carbon flexibility, including for
+generation and on the demand side.
+~
+	• Low-carbon flexible generation. This can be delivered by a range of
+different solutions, including hydrogen, carbon capture and storage (CCS),
+and energy storage.
+		– Hydrogen power plants. In summer 2021 the Government published
+calls for evidence (CfEs) on decarbonisation readiness for new
+combustion plants and on aligning the capacity market with Net Zero.
+These aim to take into account potential for future hydrogen plants.
+		– CCS power plants. The Net Zero Strategy set an objective for at least
+one operational power CCS plant by the mid-2020s. In April 2022 the
+Government issued a consultation on developing Dispatchable Power
+Agreements to support CCS deployment.
+		– Storage. In September 2021 the Government issued a CfE on
+facilitating large-scale long-duration electricity storage. It also
+committed to an aim for at least six long-duration storage
+demonstrators to be in place by 2025, and has run and awarded
+funding to 24 projects in a competition to deliver these.
+~
+	• Demand-side flexibility. In 2021 the Government published its Smart Systems
+and Flexibility Plan and Digitalisation Strategy. These included a
+commitment to move to half-hourly electricity market settlement by 2025,
+and new smart meter installation targets for energy suppliers.
+~
+The ESS significantly increased
+ambition for nuclear
+deployment, and the
+Government has announced a
+new funding model for
+delivering this.
+Some progress has been made
+developing policies for
+low-carbon flexibility, across
+hydrogen and CCS power
+plants, and energy storage.
+Steps are being taken to
+establish the structures
+necessary to enable demand-
+side flexibility.
+~
+Both of these are needed to enable smart tariffs for consumers, which will
+allow them to benefit from increased demand-side flexibility.
+~
+Networks
+The ESS recognises that electricity networks will need to develop to keep pace with
+decarbonisation of the system. It includes commitments on a new Future System
+Operator (FSO), strategies to identify the required network developments for Net
+Zero, and aims to speed-up delivery of strategic network infrastructure.
+~
+	• Future System Operator. In 2022 the Government announced the creation
+of a new independent system operator. The FSO will take on some of the
+existing operational roles of the National Grid system operator for the
+electricity and gas system. It will take a wider strategic approach to
+coordinating and planning those networks, as well as for new emerging
+markets like hydrogen and CCS.
+#
+	• Network strategies. In addition to the ongoing Offshore Transmission
+Networks Review, the ESS committed the Government to:
+		– Publishing a strategic framework in 2022 with Ofgem for how networks
+will deliver Net Zero.
+		– Appointing an Electricity Networks Commissioner to advise
+Government on policies and regulatory changes to accelerate
+progress on network infrastructure.
+		– Setting out a blueprint for the whole network system by the end of
+2022 in a Holistic Network Design (HND) for offshore networks and
+Centralised Strategic Network Plan (CSNP) for onshore transmission.
+The HND will identify the strategic infrastructure needed to deliver
+offshore wind by 2030.
+~
+	• Delivery timelines. The ESS aims to speed-up delivery of strategic network
+infrastructure, including through:
+		– An aspiration to halve the time taken to deliver strategic onshore
+transmission network infrastructure.
+		– Publishing a revised Strategy and Policy Statement to ensure Ofgem
+expedites its approvals process to build networks in anticipation of
+new sources of generation and demand.
+~
+Electricity market design
+Moving to a fully decarbonised electricity system will have a range of implications
+for how electricity markets will need to be designed and operated. In the ESS the
+Government launched a Review of Electricity Market Arrangements, with an aim
+to publish high-level options for market reform in summer 2022. To feed into that
+process the Committee has set up an expert advisory group on electricity market
+design (Box 6.1).
+~
+The Government has created a
+new independent system
+operator which will take a
+wider strategic approach to
+gas and electricity networks.
+~
+The ESS made a range of
+commitments to ensure
+electricity networks are fit for
+Net Zero.
+~
+The Government is reviewing
+whether electricity market
+arrangements need to be
+updated for Net Zero.
+~
+The Committee has set up an
+expert group to advise it on
+electricity market design and
+to feed into the Government’s
+review.
+~
+Good progress has been made
+on policy but the absence of
+an overarching delivery plan or
+strategy is a key gap in
+comparison to the approach in
+other sectors.
+~
+Credible plans are in place for
+over half the emissions
+reduction needed in 2035, but
+there are some risks around
+renewables and nuclear
+delivery.
+~
+(b) Assessment of policies and plans
+Figure 6.10 and Table 6.2 set out our assessment of Government progress in the
+past year. Good progress has been made across most elements. A key gap in
+comparison to other sectors (e.g. heat and buildings, transport) is the absence of
+an overarching delivery plan or strategy for full decarbonisation of electricity
+generation by 2035.
+~
+	• Credible plans – for both ambition on capacity and policy to deliver that –
+are in place for over half the abatement required in 2035, but some
+delivery risks remain, including some unexplained emission reductions.
+		– Positive aspects include the importance of renewables in providing
+low-carbon electricity, and the success of Government auctions for
+contracts in delivering that to-date.
+		– Delivery risks remain, particularly around low-carbon flexibility and
+nuclear.
+~
+	• There are some deployment risks around renewables and energy
+storage, particularly over the 2020s. The Government has set very
+ambitious deployment goals for renewables, and there are
+potential barriers from planning, network capacity, and supply
+chains. In the longer-term there is scope to catch-up on delays
+provided these barriers are addressed.
+~
+	• More significant risks exist around policy to deliver low-carbon
+flexibility at sufficient scale required to balance a renewables-
+based system, and around timely delivery of new-build nuclear.
+~
+	• Actual emissions were significantly (44%) higher than the BEIS
+pathway in 2021. Some of this is due to weather variability and
+nuclear outages, but we have assessed this short-term divergence
+as unexplained given uncertainty over how long it will persist.
+~
+	• Our assessment of the eight recommendations to Government in our 2021
+Progress Report is that two were achieved, one partly achieved, and one
+not achieved, with a further two underway and two making sufficient
+progress.
+		– In the Net Zero Strategy the Government accepted our high priority
+recommendation to fully decarbonise electricity generation by 2035.
+However, they have yet to develop a delivery plan or strategy for this.
+		– Progress is being made with recommendations around electricity
+market design and networks, albeit slowly. Concrete outputs from
+these processes will need to be seen over the coming year.
+~
+Generally, good progress has
+been made in implementing
+our 2021 recommendations.
+~
+There are credible plans for
+over half the emissions
+reduction required in 2035, but
+delivery risks exist over the
+2020s.
+~
+(c) Recommendations
+The recommendations for the electricity supply sector are available in the
+accompanying tables in the Annex (grouped by department) and on our website,
+where they are filterable by sector and department.
+~
+The Government has made strong commitments to fully decarbonise the sector by
+2035 and increase the amount of low-carbon electricity generation capacity. The
+key challenge is now to ensure that these ambitions are delivered on, and that
+available low-carbon electricity can be fully utilised and is sufficiently reliable and
+resilient.
+~
+Our recommendations are therefore focused on ensuring there is a clear delivery
+plan in place and that key enabling factors are addressed:
+~
+	• Our overarching priority recommendation. The Government should publish
+an overarching delivery plan or strategy, setting out how their objective of
+a fully decarbonised electricity system by 2035 will be delivered.
+		– This is needed to identify the contributions required from each
+element, assess whether policies in place are sufficient to deliver that,
+and to put in place contingencies for major risks.
+		– A clear delivery plan will improve visibility and confidence for private
+sector investors, helping reduce costs and build-up supply chains.
+		– This is a key gap in comparison to other sectors (e.g. heat and
+buildings, transport).
+~
+	• Our other priority recommendations. These cover the enabling factors
+necessary to support an increasingly flexible low-carbon electricity system.
+		– Electricity market design. Decarbonising the electricity system by 2035
+will bring challenges which current market arrangements were not
+designed for (Box 6.1). These need to be reviewed and updated
+where relevant, in sufficient time to support the investment required
+over the coming decade and ensure a smoothly running system.
+		– Networks. Well-functioning and resilient onshore and offshore
+electricity networks are needed to deliver electricity from generators
+to consumers. As the economy increasingly electrifies it is important
+that investments in resilient infrastructure are identified, planned,
+consented and built, in sufficient time, to accommodate the new
+demands and generation.
+~
+In addition, given the scale of deployment required across the sector, in new
+sources of generation, storage, and networks, identifying and addressing potential
+key supply chain bottlenecks will be critical to avoid delaying investment.
+We will publish a separate standalone report on decarbonising electricity supply
+later in 2022, as part of which we will review the scope of our recommendations.
+~
+Our priority recommendation is
+to develop an overarching
+delivery plan or strategy for
+meeting the Government’s
+objective of fully decarbonising
+electricity supply by 2035.
+~
+Other enablers will need to be
+addressed to ensure delivery of
+2035 decarbonisation,
+including market design,
+networks, and supply chains.
+~
+The Committee will publish a
+report on decarbonising
+electricity supply later in 2022.
+

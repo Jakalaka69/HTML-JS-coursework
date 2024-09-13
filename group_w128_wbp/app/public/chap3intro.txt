@@ -1,0 +1,58 @@
+-Introduction and key messages
+~
+    Aviation emissions continue to be impacted by the COVID-19 pandemic. We
+    estimate emissions in 2021 to be 15 MtCO 2e, similar to those in 2020, and still 62%
+    below those in 2019. Of these emissions, 89% come from international aviation (with
+    4% from domestic and 7% from military aviation).
+    It remains to be seen whether there will be lasting effects on aviation emissions
+    from the pandemic, high oil prices and increasing cost of living. The Government
+    set a pathway to reduce emissions to 15 MtCO2e by 2050, with the remaining
+    emissions balanced by near-permanent, sustainable greenhouse gas removals.
+~
+    However, a full strategy on aviation has yet to be released, with the Government’s
+    Jet Zero Strategy due to be published in July 2022.
+~
+    This Chapter reviews progress in reducing emissions from the UK aviation sector and
+    outlines our recommendations for delivering the Government’s aviation pathway
+    and meeting future carbon budgets.
+    Our key messages are:
+~
+	• Reliance on technology. Thus far, the Government’s pathways for aviation
+        in the Net Zero Strategy and Jet Zero Strategy rely heavily on technological
+        changes in aviation as the sector’s contribution to Net Zero and for the
+        removal of the sector’s residual emissions. This differs from the CCC’s
+        Balanced Pathway, which also limits demand growth alongside
+        technological improvements. Such heavy reliance on technology presents
+        significant risks that aircraft efficiency improvements and sustainable fuels
+        will under-deliver on emissions savings. Much of the delivery of emissions
+        reduction in the Government’s pathway requires global cooperation, joint
+        innovation and alignment.
+~
+	• Constraining demand. The Government’s announcements on aviation to
+        date have not set any ambition to constrain aviation demand growth
+        through policy, beyond vague proposals on carbon pricing, despite
+        demand measures being one of the few interventions that lowers both CO 2
+        emissions and non-CO2 effects from aviation. Given the risks outlined
+        above, as well as risks of under-delivery on emissions reductions in other
+        sectors, the Government should actively develop the option to implement
+        policy to manage aviation demand.
+~
+	• Policy developments. There have been funding announcements on the
+        development of Sustainable Aviation Fuel (SAF) plants, low-emission aircraft
+        technology, and a UK SAF clearing house. The Government has consulted
+        on implementing a SAF mandate, options to reduce non-CO2 emissions,
+        and on UK domestic aviation reaching Net Zero by 2040.
+~
+	• Sustainable fuels. The Government’s aviation pathway has a high reliance
+        on SAF, with the proposed mandate reaching 10% of fuels by 2030. It is
+        essential that supported fuels deliver genuine significant lifecycle emission
+        savings by then and that the resources used do not have adverse impacts
+        on decarbonisation in other sectors (e.g. land use), in the UK or overseas.
+~
+        In this chapter we review progress in reducing emissions from the UK aviation sector
+        and outline the next steps required to ensure more progress and meet future
+        carbon budgets. We set out the:
+        1. Emissions trends and drivers
+        2. Indicators of progress
+        3. Policy progress, assessment and next steps
+        4. Major risks

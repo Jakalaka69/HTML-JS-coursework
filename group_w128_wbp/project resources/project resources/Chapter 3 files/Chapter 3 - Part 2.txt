@@ -1,0 +1,209 @@
+Indicators of progress
+This section sets out the key indicators of progress for the aviation sector. There has
+been some progress on the technologies required for the transition within the
+sector through the FlyZero project by the Aerospace Technology Institute (ATI), but
+no progress has been made in addressing demand.
+
+The actions and conditions required for the decarbonisation of aviation in the UK
+are summarised in Figure 9.3. The details of how these work together to deliver the
+sector’s decarbonisation pathway, along with a full set of data indicators designed
+to track each of these elements, are introduced in the accompanying Monitoring
+Framework. Progress this year on the key indicators is shown in Table 9.1 and Figures
+9.4 to 9.12. Progress on the full set of indicators is shown in the supporting data to
+this report.
+
+	• Fossil fuel use per passenger-km increased substantially in 2020 (72%
+increase on 2019 levels) after two decades of progress to improve fuel
+efficiency, with an annual average change of -3% from 2010-2019 (Figure
+9.4). This is likely to be due to reduced passenger demand and flights with a
+lower proportion of seats filled, including an increasing number of ‘ghost’
+flights (Figure 9.5). It is important to track this as the sector recovers from the
+pandemic to ensure that it is only a temporary move away from long-term
+efficiency trends and that policies are implemented to alter routes and
+restrict ‘ghost flights’ if the pattern is not temporary.
+	• Non-CO2 effects of aviation* have reduced as a result of the pandemic,
+after increasing in previous years in-line with the growing number of flights.
+Technological progress in the aviation sector primarily drives a reduction in
+CO 2 emissions-intensity, although there may be some small reductions in
+non-CO 2 effects. The most effective way of mitigating non-CO 2 emissions is
+through controlling demand for aviation (Figure 9.6).
+	• The number of international trips attributed to business travel fell significantly
+during the COVID-19 pandemic. The price elasticity of demand for business
+travel has historically been low, although with the much greater use of
+video-conferencing during the pandemic, the extent to which business
+aviation travel returns remains uncertain. There has been no policy change
+to attempt to maintain this trend of fewer business flights and, resulting
+lower demand and emissions (Figure 9.7).
+•	 Prices per passenger-km of air travel have been decreasing since 2010 for
+short- and long-haul travel (despite increases in the Air Passenger Duty for
+ultra-long-haul flights). These price changes indicate improvements in the
+efficiency of aircraft and reductions in fuel consumption. Prices for long-
+distance rail journeys have increased substantially over the same period. To
+mitigate demand and reduce consumption, prices of air travel ought to be
+more expensive than lower emission modes to reflect the higher emissions
+of air travel relative to alternatives (Figure 9.8 and 9.9).
+* Aviation non-CO 2 effects (including contrails, NOx emissions, sulphates and other factors) warm the climate but have
+high levels of uncertainty and exhibit regional and seasonal variation. Despite uncertainties, their net effect almost
+certainly contributes a warming effect to the climate.
+No progress has been made in
+addressing demand in the
+aviation sector, despite the
+significant risks in the
+technology required to
+decarbonise flying.
+
+Fossil fuel intensity in aviation
+has increased during the
+pandemic.
+
+Non-CO2 effects from aviation
+have fallen during the
+pandemic.
+
+The cost of flying does not
+reflect the emissions impact
+relative to lower-emission forms
+of travel.
+
+	• An increasing proportion of people are thinking about the impact of air
+travel on the environment and are willing to pay more for their flights to
+reflect the environmental cost of air travel (Figures 9.10 and 9.11).
+	• 26 billion seat-kms flown in 2021 were offset by airlines out of a possible 114
+billion (Figure 9.12). This is likely to increase once the Carbon Offsetting and
+Reduction Scheme for International Aviation (CORSIA) is fully operational
+and airlines start buying offsets through this programme.
+		– The proportion of domestic flights offset is significantly higher than
+international flights, which rely more heavily on voluntary carbon
+offsetting by consumers. Only around 4% of consumers opt for these
+offsets according to research on the willingness-to-pay for carbon
+dioxide offsets.1
+		– However, the quality of offsets currently used is generally low and are
+often purchased by companies at a relatively low cost. To meet the
+emissions pathway for aviation by 2050, near-permanent, sustainable
+greenhouse gas removals must be used to balance residual aviation
+emissions.*
+	• UK aviation emissions per person in 2019, before the pandemic, were 33%
+higher than the OECD average (Figure 9.13). Other countries are moving
+faster than the UK with policies to reduce their aviation emissions. Box 9.1
+provides a summary of key policy developments internationally over the
+last few years.
+	• We do not include an indicator on zero- or low-emission aircraft as they are
+not currently commercially viable. However, we summarise the progress on
+research into the possibility of low-emission aircraft through the Aerospace.
+
+The aviation industry is
+offsetting a substantial
+proportion of flights, although
+the quality of the offsets
+purchased is generally low.
+
+331 Chapter 9: Aviation
+• An increasing proportion of people are thinking about the impact of air
+travel on the environment and are willing to pay more for their flights to
+reflect the environmental cost of air travel (Figures 9.10 and 9.11).
+• 26 billion seat-kms flown in 2021 were offset by airlines out of a possible 114
+billion (Figure 9.12). This is likely to increase once the Carbon Offsetting and
+Reduction Scheme for International Aviation (CORSIA) is fully operational
+and airlines start buying offsets through this programme.
+– The proportion of domestic flights offset is significantly higher than
+international flights, which rely more heavily on voluntary carbon
+offsetting by consumers. Only around 4% of consumers opt for these
+offsets according to research on the willingness-to-pay for carbon
+dioxide offsets.1
+– However, the quality of offsets currently used is generally low and are
+often purchased by companies at a relatively low cost. To meet the
+emissions pathway for aviation by 2050, near-permanent, sustainable
+greenhouse gas removals must be used to balance residual aviation
+emissions.*
+• UK aviation emissions per person in 2019, before the pandemic, were 33%
+higher than the OECD average (Figure 9.13). Other countries are moving
+faster than the UK with policies to reduce their aviation emissions. Box 9.1
+provides a summary of key policy developments internationally over the
+last few years.
+• We do not include an indicator on zero- or low-emission aircraft as they are
+not currently commercially viable. However, we summarise the progress on
+research into the possibility of low-emission aircraft through the Aerospace
+Technology Institute’s FlyZero project (see Box 9.2).
+
+* Removals must be sustainable, UK-based, with the quantity of CO 2 removed and the permanency of the removal
+quantified in a robust and transparent way.
+
+Fossil fuel intensity was
+improving up to 2020. During
+the COVID-19 pandemic it
+worsened due to lower
+demand and seat occupancy.
+
+Seat occupancy fell and the
+number of ‘ghost’ flights
+increased during the
+pandemic, a likely driver for
+increased fuel intensity in Figure
+9.4.
+
+Non-CO2 effects
+Aviation non-CO2 effects warm the climate but have high levels of uncertainty and
+exhibit regional and seasonal variation. Despite uncertainties, their net effect
+almost certainly contributes a warming effect to the climate. Best estimates
+suggest that they account for the majority of global aviation’s warming impact on
+the planet to date. However, they are likely not as dominant for UK emissions, as UK
+aviation emissions are rising more slowly than the global average.2
+	• Figure 9.6 shows an estimate of the change in effective radiative forcing
+(ERF, heat trapping potential) from non-CO 2 effects (including contrails, NOx
+emissions, sulphates and other factors) from UK aviation (using UK
+passenger-kms as a proportion of total global passenger-kms from aviation)
+relative to the change in ERF from CO 2 emissions. Globally in 2018, non-CO 2
+effects sum to yield a net warming ERF. The climate impacts of non-CO 2
+effects are shorter-lived than those of CO2 and depend on sustained
+aviation activity to maintain them (unlike CO2 , which will continue to warm
+the climate even if emissions were stopped).3
+	• The 76% fall in air passenger demand due to COVID-19 and the short-lived
+nature of non-CO 2 effects results in a corresponding percentage reduction
+in the radiative forcing from aviation non-CO 2 effects. For comparison,
+radiative forcing from CO2 emissions would have remained largely
+unchanged.
+
+The non-CO2 effects of aviation
+in the UK fell during the
+pandemic but remain a net
+positive impact. The impact of
+non-CO2 emissions is highly
+uncertain.
+
+Business travel was falling as a
+proportion of total air travel
+even before the COVID-19
+pandemic.
+
+Prices for both short- and long-
+haul air travel are falling as a
+result of efficiency
+improvements, while rail prices
+are increasing.
+
+The proportion of people
+thinking about the impact of
+their air travel on the
+environment is increasing.
+
+An increasing proportion of
+travellers are willing to pay
+more for their flights to reduce
+the environmental impact of air
+travel.
+
+The UK’s per-capita aviation
+emissions were slightly above
+the OECD average prior to the
+COVID-19 pandemic. During
+the pandemic, the UK was
+below average.
+
+The ‘FlyZero’ programme has
+made significant progress in
+understanding the potential of
+zero-emission aircraft. However,
+uncertainties on the timelines
+for commercial availability of
+these aircraft remain.
+Technology Institute’s FlyZero project (see Box 9.2).

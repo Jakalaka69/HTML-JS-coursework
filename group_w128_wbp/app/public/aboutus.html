@@ -1,0 +1,51 @@
+<!DOCTYPE html> 
+<html lang = "en">
+<head>
+    <meta charset = "UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Development Project</title>
+    <link rel = "stylesheet" href ="Stylesheet.css">
+    <script src="jay.js" defer></script>
+    <script src="aaron.js" defer></script>
+    <script src="book.js" defer></script>
+    <script src="jayimage.js" defer></script>
+    <script src="bookimage.js" defer></script>
+    <script src="aaronimage.js" defer></script>
+    
+</head>
+<body>
+    <header>
+        <h1>Climate Monitoring People</h1>
+        <span>{CMP}</span>
+    </header>
+    <nav>
+        <ul>
+            <li class="nav"><a href = "index.html">Home</a></li>
+            <li class="nav" id="dropdown"><a>Chapters</a></li>
+            <li class="active nav"><a href = "about.html">About us</a></li>
+            <li class="nav"><a href = "Sign-upForm.html">Sign-up Form</a></li>
+        </ul>
+        <ul class="chp">
+            <li class="nav"><a href = "Chapter1.html">Chapter 1</a></li>
+            <li class="nav"><a href = "Chapter2.html">Chapter 2</a></li>
+            <li class="nav"><a href = "Chapter3.html">Chapter 3</a></li>
+        </ul>
+    </nav>
+    <main>
+        <h3 id="aboutustitle">About us</h3>
+        <div id="allimage">
+            <section class="aboutsection"id="imagesourcejay"></section>
+            <section  class="aboutsection"id="imagesourceaaron"></section>
+            <section class="aboutsection" id="imagesourcebook"></section>
+        </div>
+        <div class="column">
+            <p id="jayinfo"></p>
+            <p id="aaroninfo" ></p>
+            <p id="bookinfo" ></p>
+       </div>
+    </main>
+    <footer>
+        <p>Copyright Â©2022 Climate Monitoring People: <a href="mailto:email@example.com"> Aaron Hurrell, Jay Wharton, Book.....</a></p>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+    <meta charset = "UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Development Project</title>
+    <link rel = "stylesheet" href ="Stylesheet.css">
+    <script src="chapters.js" defer></script>
+    <script src="indexchap1.js" defer></script>
+    <script src="indexchap2.js" defer></script>
+    <script src="indexchap3.js" defer></script>
+    <script src="indexIntro.js" defer></script>
+</head>
+<body>
+    <header>
+        <h1><a href="index.html" class="headers">Climate Monitoring People</a></h1>
+        <span>{CMP}</span>
+    </header>
+    <nav>
+        <ul>
+            <li class="active nav"><a href = "index.html">Home</a></li>
+            <li class="nav" id="dropdown"><a>Chapters</a></li>
+            <li class="nav"><a href = "aboutus.html">About us</a></li>
+            <li class="nav"><a href = "Sign-upForm.html">Sign-up Form</a></li>
+        </ul>
+        <ul class="chp">
+            <li class="nav"><a href = "Chapter1.html">Chapter 1</a></li>
+            <li class="nav"><a href = "Chapter2.html">Chapter 2</a></li>
+            <li class="nav"><a href = "Chapter3.html">Chapter 3</a></li>
+        </ul>
+    </nav>
+    <main>
+        
+        <section class="chapters">
+            <details class="basic"><summary><a href = "Chapter1.html" >Chapter 1</a></summary><p id="indexIntro1"class="intropara"></p></details>
+            <details class="basic" id="ghj" ><summary><a href = "Chapter2.html" >Chapter 2</a></summary><p id="indexIntro2" class="intropara"></p></details>
+            <details class="basic"><summary><a href = "Chapter3.html" >Chapter 3</a></summary><p id="indexIntro3"class="intropara"></p></details>
+            <button class="basicFat"><a href = "about.html" >About</a></button>
+            <button class="basicFat"><a href = "Sign-upForm.html" >Sign-up Form</a></button>
+        </section>
+        <section id="introsec">
+            <p id="intro">
+               
+            </p>
+        </section>
+        
+        
+    </main>
+    
+    <footer>
+        <p>Copyright Â©2022 Climate Monitoring People: <a href="mailto:email@example.com"> Aaron Hurrell, Jay Wharton, Book.....</a></p>
+    </footer>
+</body>
+</html>

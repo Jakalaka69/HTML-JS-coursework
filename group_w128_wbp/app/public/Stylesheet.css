@@ -1,0 +1,327 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family:Verdana, Geneva, Tahoma, sans-serif; 
+    
+}
+header{
+    display: block;
+    background-color: rgb(0, 76, 255);
+    padding-top:20px;
+    padding-bottom:20px;
+    padding-left: 10x;
+    padding-right: 60px;
+    list-style-type: none;
+    color: white;
+}
+.headers{
+	display: flex;
+    text-align: left;
+    
+	color:white;
+}
+header h1{
+    display: flex;
+    text-align: left;
+    margin-left: 10px;
+}
+footer{
+    background-color: rgb(65, 64, 64); 
+    max-height: 80px; 
+}
+footer p{
+    padding: 10px;
+    color: beige;
+    clear:both;
+    
+}
+main{
+    background-color: rgb(189, 251, 230);
+    padding-bottom: 60px;
+    z-index: -1;
+}
+ul{
+    display: inline-block;  
+    text-decoration: none;
+    text-orientation: sideways;
+    list-style-type: none;
+}
+a{
+    display:inline-block ;
+    color: black;
+    text-decoration: none;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+footer a{
+    display:inline-block ;
+    color: white;
+    text-decoration: none;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+#dropDownMenu{
+    text-decoration: none;
+    display: inline-block;
+    padding-right: 10px;
+    margin-right: 25px;
+    color: white;
+}
+.down{
+    display: block;
+}
+nav{
+    background-color: rgb(132, 197, 224);
+    padding-bottom: 0;
+}
+li{
+    text-decoration: none;
+    display: inline-block;
+    list-style-type: none;
+}
+.nav{
+    display: inline-block;
+}
+.nav:hover{
+    background-color: rgb(175, 223, 244);
+}
+form{
+    display: flex;
+    padding-left: 25%;
+    padding-right: 25%;	
+}
+label{
+    display: block;
+    width: 100%;
+    margin: 1%;
+    width: 60%;
+    padding-left: 20%;
+}
+fieldset{
+    display: inline-flex;
+    flex-wrap: wrap;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 5px;
+    margin-right: auto;
+    width: 100%;
+    border: 5px solid rgb(12, 14, 12);
+    border-radius: 5px;
+    background-color: beige;
+	padding-bottom: 30px;
+	padding-top: 30px;
+	height:650px;
+}
+#form{
+    display: inline-flex;
+    width: 50%;
+}
+input{
+    display: inline-block;
+    width: 60%;
+    padding: 10px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+    margin-left: 20%;
+    margin-right: 20%;
+    border: 1px solid rgb(6, 6, 5);
+    border-radius: 5px;
+    background-color: white;
+}
+textarea{
+    display: inline-block;
+    width: 60%;
+    padding: 10px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+    margin-left: 20%;
+    margin-right: 20%;
+    border: 1px solid rgb(12, 15, 13);
+    border-radius: 5px;
+    background-color: white;
+}
+#subbutton{
+    margin: 2% 35% 2% 35%;
+    min-width: 150px;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-bottom: 20px;
+    border: 1px solid rgb(13, 15, 13);
+    border-radius: 5px;
+    background-color: white;
+    color: rgb(9, 17, 17);
+}
+legend{
+    padding: 5px;
+    padding-top: 60px;
+    font-size: medium;
+    word-spacing: 4px;
+}
+span{
+    font-size: larger;
+    text-align: right;
+    display: flex;
+    margin-left: 25px;
+}
+.active{
+    background-color: white;
+}
+
+.basic{
+    background-color: rgb(132, 197, 224);
+    width: 1100px;
+    min-height: 80px;
+    border-radius: 10px;
+    margin: 30px 0 30px 30px;
+    font-size: 30px;
+    text-align: left;
+    
+    
+}
+
+#intro{
+    background-color: rgb(132, 197, 224);
+    width: 1200px;
+    height: 1000px;
+    border-radius: 10px;
+    margin: 30px;
+    word-wrap: break-word;
+    width: 1200px;
+    font-size: 130%;
+   
+}
+
+#introsec{
+    max-width:49%;
+    min-width: 49%;
+    display: inline-block;
+    
+}
+.infopara{
+    background-color: rgb(132, 197, 224);
+}
+.chapters{
+    max-width: 49%;
+    min-width: 49%;
+    float: left;
+}
+
+.basicFat{
+    
+    background-color: rgb(132, 197, 224);
+    width: 500px;
+    height: 180px;
+    border-radius: 10px;
+    margin: 30px 0 30px 30px;
+    font-size: 30px;
+    text-align: left;     
+}
+#dropdown:hover{
+    background-color: (175, 223, 244);
+}
+.chp{
+    display: block;
+    z-index: 1;
+    height: 0;
+    overflow: hidden;
+}
+.chpshow{
+    height: 40px;
+    z-index: 1;
+}
+.image2{
+    height: 750px;
+    width: 750px;
+    
+    
+}
+.image3{
+    height: 600px;
+    width: 600px;
+    padding-right: 100px;
+    
+}
+#imageSource{
+    
+    margin: 60px;
+    display: inline-flex;
+    float: right;
+}
+#imageSource1{
+    
+    margin: 60px;
+    display: inline-flex;
+    float: right;
+}
+#imageSource2{
+    
+    margin: 60px;
+    display: inline-flex;
+    float: right;
+}
+.intropara{
+    background-color:rgb(178, 225, 253) ;
+    
+    
+    font-size:70%;
+    border-color: rgb(35, 98, 134);
+    border-width: 3px;
+    position: relative;
+    border-style: solid;
+    border-radius: 10px;
+    
+}
+#indexIntro2{
+    z-index: 0;
+}
+#indexIntro1{
+    z-index: 0;
+}
+#indexIntro3{
+    z-index: 1;
+}
+details{
+    display:inline-block;
+    
+    
+}
+.SUB{
+    max-width: 48%;
+    padding-left: 100px;
+    position: relative;
+    display: inline-block;
+}
+.imageabout{
+    padding-top:50px;
+    width:200px;
+    height:200px;
+}
+.aboutsection{
+    max-width:32%;
+    min-width:32%;
+    display: inline-block;
+    
+}
+
+.basic1{
+    background-color: rgb(132, 197, 224);
+    width: 1000px;
+    min-height: 80px;
+    border-radius: 10px;
+    margin: 55px 0 30px 30px;
+    font-size: 30px;
+    text-align: left;
+    display: inline-block;
+    
+}
+.chapTitle{
+	text-align: center;
+	padding-top:20px;
+}

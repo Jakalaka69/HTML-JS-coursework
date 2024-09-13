@@ -1,0 +1,8 @@
+Jay Wharton is our team morale supporter. 
+
+He is British Student from Hertforshire that enjoys learning computer science. 
+
+He loves going out to play rugby with his mates. 
+
+He is responsible for coding the CSS for us and also coing the fetch code. His contribution is: Index page, reuseable fetch function for all of the texts, some of the pages designs, navigation bar dropdown
+
